@@ -131,3 +131,43 @@ Incorrect permissions can:
 3. cd → navigate
 4. perform action
 
+# File Handling
+
+## cat
+Reads file content
+
+Example:
+cat file.txt
+
+Why it matters:
+Used to read configs, logs, and scripts.
+
+---
+
+## echo
+Prints text or writes to file
+
+Example:
+echo "Hello"
+
+---
+
+## > (overwrite)
+Writes content into file (replaces existing content)
+
+Example:
+echo "text" > file.txt
+
+---
+
+## >> (append)
+Adds content to file without removing existing content
+
+Example:
+echo "text" >> file.txt
+
+---
+
+## Key Understanding
+Files are not just created—they store and transfer data.
+This is important for logs, configs, and automation in DevOps.
