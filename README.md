@@ -1,4 +1,4 @@
-# DevOps Learning Journey
+# Learning Journey
 
 This repository contains my notes and hands-on learning as I transition into DevOps.
 
