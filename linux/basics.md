@@ -57,6 +57,7 @@ Everything is file-based.
 * Path = location of file/folder
 
 Absolute Path:
+Full path from root
 
 * Full path from root
 * Example: /Users/name/Desktop/project
